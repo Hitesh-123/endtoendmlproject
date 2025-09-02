@@ -1,0 +1,28 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+tensorflow
+torch
+torchvision
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Utilities
+jupyter
+notebook
+ipykernel
+tqdm
+joblib
+
+# Data handling
+openpyxl   # Excel files
+pyarrow    # Parquet, Arrow
